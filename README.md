@@ -56,51 +56,22 @@ This project delivers a **comprehensive end-to-end data analysis** of bird speci
 The **3-page interactive dashboard** visualizes key biodiversity and observation insights:
 
 ### 📈 Page 1: Overview
+![Overview Dashboard](Dashboard/overview.png)
 
 * **KPIs**: Total Observations, Unique Species, Total Observers
 * **Visuals**: Map of sites, Top 10 species, Observations by location type & time
 
 ### 🐦 Page 2: Species & Conservation
+![Species Dashboard](Dashboard/species.png)
 
 * **KPIs**: Unique Species, Identification Methods, Sex Distribution
 * **Visuals**: Species diversity across habitats, ID method distribution, Top species by flyover
 
 ### 🌍 Page 3: Temporal & Environmental
+![Temporal Dashboard](Dashboard/temporal.png)
 
 * **KPIs**: Avg. Temperature, Avg. Humidity, Initial 3-Minute Observations
 * **Visuals**: Observation trends by hour, sky condition, wind distribution, humidity vs distance
-
-## 📊 Dashboard Overview (Power BI)
-
-The **3-page interactive dashboard** visualizes key biodiversity and observation insights:
-
-<details>
-<summary><b>📈 View Page 1: Overview</b></summary>
-
-![Overview Dashboard](images/overview.png)
-
-* **KPIs**: Total Observations (15.3K), Unique Species (125), Total Observers (3)
-* **Visuals**: Map of sites, Top 10 species (e.g., Northern Cardinal, Carolina Wren), Observations by location type & date
-</details>
-
-<details>
-<summary><b>🐦 View Page 2: Species & Conservation</b></summary>
-
-![Species Dashboard](images/species.png)
-
-* **KPIs**: Unique Species (125), Primary ID Method (Calling)
-* **Visuals**: Species diversity across habitats, ID method distribution, Top species by flyover (Common Grackle, American Goldfinch)
-</details>
-
-<details>
-<summary><b>🌍 View Page 3: Temporal & Environmental</b></summary>
-
-![Temporal Dashboard](images/temporal.png)
-
-* **KPIs**: Avg. Temp (22.41°C), Avg. Humidity (74.66), Initial 3-Minute Observations (8.2K)
-* **Visuals**: Observation trends by hour, sky condition, wind distribution, and humidity vs. distance
-</details>
-
 
 ---
 
